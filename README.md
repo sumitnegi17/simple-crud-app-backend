@@ -1,7 +1,3 @@
-Here’s a README file for the GitHub project titled **Simple-CRUD-App-Backend**:
-
----
-
 # Simple CRUD App Backend
 
 ## Overview
